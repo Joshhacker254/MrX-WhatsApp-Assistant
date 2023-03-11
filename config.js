@@ -19,22 +19,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['923055108095'] //you can add multiple number
-global.ownername = "𝙈𝙧𝙓 "
-global.ytname = "YT: MrX Tech Academy" //ur yt chanel name
-global.socialm = "GitHub: 786unknown420" //ur github or insta name
+global.owner = ['254790735110'] //you can add multiple number
+global.ownername = "joshhacker "
+global.ytname = "YT: josshacker" //ur yt chanel name
+global.socialm = "GitHub: Joshhacker254" //ur github or insta name
 global.location = "Pakistan, India, TamilNadu, Coimbatore" //ur location
 
 //bot bombdy
-global.botname = "𝙈𝙧𝙓 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩 " //ur bot name
-global.websitex = "https://github.com/generalwebsitex1/MrX-WhatsApp-Assistant" //ur website
+global.botname = "Joshhacker 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩 " //ur bot name
+global.websitex = "https://github.com/Joshhacker254/MrX-WhatsApp-Assistant" //ur website
 global.vidmenu = fs.readFileSync("./TurboMedia/theme/alexa.mp4") //gif and video menu
-global.packname = "𝙈𝙧𝙓 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩 "
-global.author = "𝙈𝙧𝙓 "
+global.packname = "Joshhacker 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩 "
+global.author = "joshhacker "
 global.themeemoji = "💖"
 global.reactmoji = "🌹"
-global.ownertag = ['923055108095'] //ur owner number
-global.ownernummenu = ['923055108095'] //ur owner number in menu and all
+global.ownertag = ['254790735110'] //ur owner number
+global.ownernummenu = ['254790735110'] //ur owner number in menu and all
 global.watermark = "" //ur watermark
 global.botscript = "https://github.com/generalwebsitex1/MrX-WhatsApp-Assistant"
 global.linkz1 = "https://chat.whatsapp.com/KbeXBmjO6Ab5wVQnIA142v"
